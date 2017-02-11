@@ -1,2 +1,4 @@
 ##ingnore work space 
+.idea/
+
 *.xml
